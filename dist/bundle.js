@@ -20017,13 +20017,14 @@
 	    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 	};
 	var React = __webpack_require__(1);
+	var word = '';
 	var Hello = (function (_super) {
 	    __extends(Hello, _super);
 	    function Hello() {
 	        _super.apply(this, arguments);
 	    }
 	    Hello.prototype.render = function () {
-	        return React.createElement("h1", null, "Hello from ", this.props.compiler, " and ", this.props.framework, "!");
+	        return (React.createElement("div", null, React.createElement("h1", null, "Hello from ", this.props.compiler, " and ", this.props.framework, "!")));
 	    };
 	    return Hello;
 	}(React.Component));
