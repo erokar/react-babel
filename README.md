@@ -1,5 +1,6 @@
 # react-ts-webpack
-React + TypeScript + Webpack starter boilerplate
+A starter project with boilerplate for setup of React with Tyepscript. The project includes an Express 
+server, Webpack and Nodemon. 
 
 ## Usage
 1. Clone repository: `git clone https://github.com/erokar/react-ts-webpack.git`
