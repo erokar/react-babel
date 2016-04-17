@@ -9,6 +9,7 @@
   "dependencies": {
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
+    "typescript": "^1.8.10",
     "webpack": "^1.13.0"
   },
   "devDependencies": {
