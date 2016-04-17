@@ -8,8 +8,10 @@ React + TypeScript + Webpack starter boilerplate
 
 3. Insall npm modules: `npm install`
 
-4. Run webpack: `webpack` (Run `webpack -w` to watch file changes.)
+4. Run webpack: `webpack -w`
 
-5. Open index.html: `open index.html`
+5. In a new terminal window, run `nodemod`
+
+6. Open `localhost:3000` in a browser
 
 
