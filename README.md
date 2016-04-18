@@ -1,11 +1,11 @@
-# react-ts-webpack
-A starter project with boilerplate for setup of React with Tyepscript. The project includes an Express 
+# react-babel
+A starter project with boilerplate for setup of React with Babel. The project includes an Express 
 server, Webpack and Nodemon. 
 
 ## Usage
-1. Clone repository: `git clone https://github.com/erokar/react-ts-webpack.git`
+1. Clone repository: `git clone https://github.com/erokar/react-babel.git`
 
-2. Cd into react-ts-webpack.git: `cd react-ts-webpack.git`
+2. Cd into react-babel.git: `cd react-babel.git`
 
 3. Insall npm modules: `npm install`
 
